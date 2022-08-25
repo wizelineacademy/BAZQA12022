@@ -1,4 +1,4 @@
-# Digital Skills Accelerator Training - Mobile Android
+# Digital Skills Accelerator Training - QA
 
 # I. Bienvenida
 Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entrenamiento.
