@@ -60,6 +60,7 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 - [Marco Olivares](marco.olivares@wizeline.com)
 - [Griss Esquivel](grissell.esquivel@wizeline.com)
 - [Narda Ballesteros](narda.ballesteros@wizeline.com)
+- [Ricardo Rodríguez](ricardo.rodriguezr@wizeline.com)
 
 # VI. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
