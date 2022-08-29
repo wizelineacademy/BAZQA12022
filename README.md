@@ -26,10 +26,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ## :bookmark_tabs: Sesiones
 
-### Semana 1 - Fundamentals
-   1. [Historia de la web]([pre-curso/modulo_1/sesion_1.1](https://github.com/wizelineacademy/web-development-bootcamp-course/tree/main/pre-curso/modulo_1/sesion_1.1)) poner un branch de este main con el material del tema de cada dia.
-   2. [Aplicaciones web](pre-curso/modulo_1/sesion_1.2)
-   3. [Frontend](pre-curso/modulo_1/sesion_1.3)
+### Semana 1 - 
+   1. Fundamentals of Testing
 
 ### Semana 2 - 
 1. Testing Throughout the Software Development Lifecycle
