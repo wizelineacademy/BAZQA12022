@@ -22,30 +22,34 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
-Los temas estan divididos en 6 semanas, 3 sesiones por semana. 
+Los temas estan divididos en 5 semanas, 3 sesiones por semana. 
 
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1 - 
-   1. Fundamentals of Testing
+   1. Fundamentos de pruebas I
+   2. Fundamentos de pruebas II
+   3. Repaso fundamentos de pruebas
 
 ### Semana 2 - 
-1. Testing Throughout the Software Development Lifecycle
-2. Test Approaches
+   1. Prueba a lo largo del ciclo de Vida de Desarrollo de Software (SDLC) 
+   2. Enfoques de pruebas
+   3. Repaso Pruebas a lo largo del SDLC, y enfoques de prueba
 
 ### Semana 3 - 
-1. Pruebas estáticas
-2. Técnicas de prueba
+   1. Pruebas estáticas
+   2. Técnicas de prueba I
+   3. Repaso pruebas estáticas, y técnicas de pruebas I
 
 ### Semana 4 - 
-1. Técnicas de prueba
-2. ISTQB
+   1. Técnicas de prueba II
+   2. Técnicas de prueba III
+   3. Repaso de técnicas de prueba
 
 ### Semana 5 - 
-1. ISTQB
-
-### Semana 6 -
-1. ISTQB
+   1. Administración de pruebas I
+   2. Administración de pruebas II
+   3. Técnicas de administración de pruebas
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
