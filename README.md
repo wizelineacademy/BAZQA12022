@@ -32,14 +32,22 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Frontend](pre-curso/modulo_1/sesion_1.3)
 
 ### Semana 2 - 
+1. Testing Throughout the Software Development Lifecycle
+2. Test Approaches
 
 ### Semana 3 - 
+1. Pruebas estáticas
+2. Técnicas de prueba
 
 ### Semana 4 - 
+1. Técnicas de prueba
+2. ISTQB
 
 ### Semana 5 - 
+1. ISTQB
 
 ### Semana 6 -
+1. ISTQB
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
