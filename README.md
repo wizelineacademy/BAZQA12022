@@ -51,11 +51,15 @@ Aqui encontrarás las instrucciones para completar tu Projecto final.
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 - Selecciona la liga de abajo de cualquiera de los mentores
 
-- Mentor 1
-- Mentor 2
-- Mentor 3
-- Mentor 4
-- Mentor 5
+- [Fernando Flores](luis.flores@wizeline.com)
+- [Abelardo Romo](abelardo.romo@wizeline.com)
+- [Luca Bacasehua](luis.bacasehua@wizeline.com)
+- [Karla Espiritu](karla.espiritu@wizeline.com)
+- [Elizabeth Perez](elizabeth.perez@wizeline.com)
+- [Héctor Hurtado](hector.hurtado@wizeline.com)
+- [Marco Olivares](marco.olivares@wizeline.com)
+- [Griss Esquivel](grissell.esquivel@wizeline.com)
+- [Narda Ballesteros](narda.ballesteros@wizeline.com)
 
 # VI. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
