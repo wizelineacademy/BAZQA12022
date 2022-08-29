@@ -62,16 +62,16 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 
-- [Fernando Flores](luis.flores@wizeline.com)
-- [Abelardo Romo](abelardo.romo@wizeline.com)
-- [Luca Bacasehua](luis.bacasehua@wizeline.com)
-- [Karla Espiritu](karla.espiritu@wizeline.com)
-- [Elizabeth Perez](elizabeth.perez@wizeline.com)
-- [Héctor Hurtado](hector.hurtado@wizeline.com)
-- [Marco Olivares](marco.olivares@wizeline.com)
-- [Griss Esquivel](grissell.esquivel@wizeline.com)
-- [Narda Ballesteros](narda.ballesteros@wizeline.com)
-- [Ricardo Rodríguez](ricardo.rodriguezr@wizeline.com)
+- [Fernando Flores](https://calendly.com/lfernandofloresc/baz-mentorias-1-1)
+- [Abelardo Romo](https://calendly.com/abelardo-romo/baz-mentoria-1-1)
+- [Luca Bacasehua](https://calendly.com/luca-bacasehua/baz-mentoria-1-1)
+- [Karla Espiritu]
+- [Elizabeth Perez](https://calendly.com/elizabeth-perez-melendez/baz-mentoria-1-1)
+- [Héctor Hurtado](https://calendly.com/hectorhurtadof/baz-mentoria-1-1)
+- [Marco Olivares](https://calendly.com/marco-olivares/baz-mentoria-1-1)
+- [Griss Esquivel]
+- [Narda Ballesteros](https://calendly.com/nardaballesteros/baz-mentoria-1-1)
+- [Ricardo Rodríguez](https://calendly.com/ricardo-rodriguezr/baz-mentoria-1-1)
 
 # VI. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
