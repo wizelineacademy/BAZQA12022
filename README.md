@@ -54,7 +54,7 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
 ### Semana 5 - 
    1. Administración de pruebas I
    2. Administración de pruebas II
-   3. Técnicas de administración de pruebas
+   3. Repaso de administración de pruebas
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
