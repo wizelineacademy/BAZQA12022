@@ -60,13 +60,7 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
    
    ## 📺 Grabaciones sesiones
 
-### Semana 1 
-
-## Presentaciones sesiones
-
-### Semana 1
-
-[Lunes 29 Agosto/Fundamentos de pruebas I](https://drive.google.com/file/d/1S21O92jBMgabfvJQGAo8_Wpv3_o2Iq82/view?usp=sharing)
+En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso.
 
 
 # IV. Proyecto Final (Capstone Project)
