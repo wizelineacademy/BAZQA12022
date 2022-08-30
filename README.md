@@ -59,8 +59,10 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
 ## Grabaciones sesiones
 
 ### Semana 1 -
+Lunes 29 Agosto/Fundamentos de Prueba 1
 
 ## Presentaciones sesiones
+[Lunes 29 Agosto/Fundamentos de Prueba 1](https://drive.google.com/file/d/1S21O92jBMgabfvJQGAo8_Wpv3_o2Iq82/view?usp=sharing)
 
 ### Semana 1 -
 
