@@ -58,7 +58,7 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
    2. Administración de pruebas II
    3. Técnicas de administración de pruebas
    
-   ## Grabaciones sesiones
+   ## 📺 Grabaciones sesiones
 
 ### Semana 1 -
 
@@ -70,12 +70,12 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
 
 
 # IV. Proyecto Final (Capstone Project)
-**Objetivo**
+✴️ **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
 Aqui encontrarás las instrucciones para completar tu Projecto final.
 
-# V. Agenda tu mentoria
+# V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
