@@ -13,4 +13,4 @@
 - Procesos de las pruebas
 - Ejercicios
 
-## [Enlace de la presentación](https://docs.google.com/presentation/d/1FgQw-5lr-xokAmI_1TiwA5nK6sEiy98rX8daWzJ7vwY/edit#slide=id.g1474dcddfed_0_0)
+## [Enlace de la presentación](https://drive.google.com/file/d/1S21O92jBMgabfvJQGAo8_Wpv3_o2Iq82/view?usp=sharing)

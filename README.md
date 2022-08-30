@@ -32,8 +32,8 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1 - 
-   1. Fundamentos de pruebas I
-   2. Fundamentos de pruebas II
+   1. [Fundamentos de pruebas I](./Semana%201/Fundamentos%20de%20las%20pruebas%20I/README.md)
+   2. [Fundamentos de pruebas II](./Semana%201/Fundamentos%20de%20las%20pruebas%20II/README.md)
    3. Repaso fundamentos de pruebas
 
 ### Semana 2 - 
@@ -55,16 +55,6 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
    1. Administración de pruebas I
    2. Administración de pruebas II
    3. Técnicas de administración de pruebas
-
-## Grabaciones sesiones
-
-### Semana 1 -
-Lunes 29 Agosto/Fundamentos de Prueba 1
-
-## Presentaciones sesiones
-[Lunes 29 Agosto/Fundamentos de Prueba 1](https://drive.google.com/file/d/1S21O92jBMgabfvJQGAo8_Wpv3_o2Iq82/view?usp=sharing)
-
-### Semana 1 -
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
