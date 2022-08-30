@@ -12,3 +12,8 @@
 - 7 principios de las pruebas
 - Procesos de las pruebas
 - Ejercicios
+
+
+# :books: Para aprender mas
+
+[Programa de Estudio nivel básico ISTQB](https://es.sstqb.com/_files/ugd/acfdb9_743bf3d31dde49578c94d97e5b96b9da.pdf)
