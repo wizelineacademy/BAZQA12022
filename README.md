@@ -96,5 +96,3 @@ Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor con
 
 Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
 
-# VII. Recursos adicionales
-[ISTQB Nivel Básico](https://drive.google.com/file/d/1q3j1VaSLZ43fE8avin1xpv70h2wGAvx5/view?usp=sharing)
