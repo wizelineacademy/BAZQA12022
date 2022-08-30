@@ -11,4 +11,4 @@
 - La psicologia del proceso de prueba
 - Ejercicios
 
-## [Enlace de la presentación](https://docs.google.com/presentation/d/1BOIE7uURFT-2AaPjCjQBCumGZ_StdhE6lLr7JhVpCQQ/edit?usp=sharing)
+## [Enlace de la presentación](https://drive.google.com/file/d/11dwjqaWtZ_yhN6JODDXErrs0pMSquJxg/view?usp=sharing)
