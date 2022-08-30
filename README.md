@@ -7,6 +7,7 @@ Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entre
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
 
 [Calendario](https://drive.google.com/file/d/1b2MCouxxwTOzeBqTCJnvgKFzDUH-PH9J/view?usp=sharing)
+
 [Liga Acceso Telegram grupal](https://t.me/+0C4sA7uxRvVjNTFh)
 
 **Sesiones en Vivo** 
