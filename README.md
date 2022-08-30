@@ -1,7 +1,7 @@
 # Digital Skills Accelerator Training - QA
 
 # I. Bienvenida
-Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entrenamiento.
+Bienvenido a tu capacitación de QA la cual consta de 6 semanas de entrenamiento.
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
@@ -33,34 +33,34 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
 
 ## :bookmark_tabs: Sesiones
 
-### Semana 1 - 
+### Semana 1  
    1. [Fundamentos de pruebas I](./Semana%201/Fundamentos%20de%20las%20pruebas%20I/README.md)
    2. [Fundamentos de pruebas II](./Semana%201/Fundamentos%20de%20las%20pruebas%20II/README.md)
    3. Repaso fundamentos de pruebas
 
-### Semana 2 - 
+### Semana 2  
    1. Prueba a lo largo del ciclo de Vida de Desarrollo de Software (SDLC) 
    2. Enfoques de pruebas
    3. Repaso Pruebas a lo largo del SDLC, y enfoques de prueba
 
-### Semana 3 - 
+### Semana 3  
    1. Pruebas estáticas
    2. Técnicas de prueba I
    3. Repaso pruebas estáticas, y técnicas de pruebas I
 
-### Semana 4 - 
+### Semana 4  
    1. Técnicas de prueba II
    2. Técnicas de prueba III
    3. Repaso de técnicas de prueba
 
-### Semana 5 - 
+### Semana 5  
    1. Administración de pruebas I
    2. Administración de pruebas II
    3. Técnicas de administración de pruebas
    
    ## 📺 Grabaciones sesiones
 
-### Semana 1 -
+### Semana 1 
 
 ## Presentaciones sesiones
 
