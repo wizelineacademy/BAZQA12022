@@ -39,12 +39,12 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
    3. Repaso fundamentos de pruebas
 
 ### Semana 2  
-   1. Prueba a lo largo del ciclo de Vida de Desarrollo de Software (SDLC) 
-   2. Enfoques de pruebas
+   1. [Prueba a lo largo del ciclo de Vida de Desarrollo de Software (SDLC)](./Semana%202/Prueba%20a%20lo%20largo%20del%20ciclo%20de%20Vida%20de%20Desarrollo%20de%20Software/README.md) 
+   2. [Enfoques de pruebas](./Semana%202/Enfoques%20de%20las%20pruebas/README.md)
    3. Repaso Pruebas a lo largo del SDLC, y enfoques de prueba
 
 ### Semana 3  
-   1. Pruebas estáticas
+   1. [Pruebas estáticas](./Semana%203/Pruebas%20estaticas/README.md)
    2. Técnicas de prueba I
    3. Repaso pruebas estáticas, y técnicas de pruebas I
 
