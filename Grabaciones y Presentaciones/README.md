@@ -1,22 +1,41 @@
 ## 📺 Grabaciones y Presentaciones
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
-## Semana 1 
+# Semana 1
+- [Lunes 29 Agosto/Fundamentos de las pruebas](https://drive.google.com/file/d/1S21O92jBMgabfvJQGAo8_Wpv3_o2Iq82/view?usp=sharing)
+- 📺 [Grabacion Lunes 29 Agosto](https://drive.google.com/file/d/1nWIr7ZNIYtXY83zOcR2Ug5Dn5jN-FSAm/view?usp=sharing)
+- [Miércoles 31 Ago/Fundamentos de las pruebas](https://drive.google.com/file/d/11dwjqaWtZ_yhN6JODDXErrs0pMSquJxg/view?usp=sharing)
+- 📺 [Grabacion Miércoles 31 Ago](https://drive.google.com/file/d/1wbVEhmfu1i37cWP71BQQOMtYHYJ2PVi7/view?usp=sharing)
+- [Viernes 2 Sep/Repaso: Fundamentals of Testing]
+- 📺 [Grabacion Viernes 2 Sep]
 
-#### Sesión Lunes 29 Agosto
-- [Grabación](https://drive.google.com/file/d/1nWIr7ZNIYtXY83zOcR2Ug5Dn5jN-FSAm/view?usp=sharing)
-- [Presentación](https://drive.google.com/file/d/1S21O92jBMgabfvJQGAo8_Wpv3_o2Iq82/view?usp=sharing)
+# Semana 2
+- [Lunes 5 Sep/SDLC]
+- 📺 [Grabacion Lunes 5 Sep]
+- [Miércoles 7 Sep/Enfoques de prueba]
+- 📺 [Grabacion Miércoles 7 Sep]
+- [Viernes 9 Sep/Repaso]
+- 📺 [Grabacion Viernes 9 Sep]
 
-#### Sesión Miércoles 31 Agosto
-- Grabación
-- [Presentación](https://drive.google.com/file/d/11dwjqaWtZ_yhN6JODDXErrs0pMSquJxg/view?usp=sharing)
+# Semana 3
+- [Lunes 12 Sep/Pruebas estáticas]
+- 📺 [Grabacion Lunes 12 Sep]
+- [Miércoles 14 Sep/Técnicas de prueba I]
+- 📺 [Miércoles 14 Sep]
 
-## Semana 2
+# Semana 4
+- [Lunes 19 Sep/Técnicas de prueba II]
+- 📺 [Lunes 19 Sep]
+- [Miércoles 21 Sep/Técnicas de prueba III]
+- 📺 [Miércoles 21 Sep]
+- [Viernes 23 Sep/Repaso]
+- 📺 [Viernes 23 Sep]
 
-#### Sesión 1
-- Grabación
-- Presentación
+# Semana 5
+- [Lunes 26 Sep/Administración de Pruebas I]
+- 📺 [Lunes 26 Sep]
+- [Miércoles 28 Sep/Administración de Pruebas II]
+- 📺 [Miércoles 28 Sep]
+- [Viernes 30 Sep/Repaso]
+- 📺 [Viernes 30 Sep]
 
-#### Sesión 2
-- Grabación
-- Presentación
