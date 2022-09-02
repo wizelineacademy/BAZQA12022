@@ -58,7 +58,7 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
    2. Administración de pruebas II
    3. Técnicas de administración de pruebas
    
-   ## 📺 Grabaciones sesiones
+   ## 📺 Grabaciones sesiones y Presentaciones
 
 En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso.
 
