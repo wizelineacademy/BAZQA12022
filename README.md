@@ -45,7 +45,7 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
 
 ### Semana 3  
    1. [Pruebas estáticas](./Semana%203/Pruebas%20estaticas/README.md)
-   2. Técnicas de prueba I
+   2. [Técnicas de prueba I](./Semana%203/Tecnicas%20de%20prueba%20I/README.md)
    3. Repaso pruebas estáticas, y técnicas de pruebas I
 
 ### Semana 4  
