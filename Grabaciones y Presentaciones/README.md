@@ -7,7 +7,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 31 Ago/Fundamentos de las pruebas](https://drive.google.com/file/d/11dwjqaWtZ_yhN6JODDXErrs0pMSquJxg/view?usp=sharing)
 - 📺 [Grabacion Miércoles 31 Ago](https://drive.google.com/file/d/1wbVEhmfu1i37cWP71BQQOMtYHYJ2PVi7/view?usp=sharing)
 - [Viernes 2 Sep/Repaso: Fundamentals of Testing]
-- 📺 [Grabacion Viernes 2 Sep]
+- 📺 [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1Ok_YTNCumJGwEZueMJKB61_MtLt5uv48/view?usp=sharing)
 
 # Semana 2
 - [Lunes 5 Sep/SDLC]
