@@ -75,9 +75,9 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 
 - [Fernando Flores](https://calendly.com/lfernandofloresc/baz-mentorias-1-1)
-- [Abelardo Romo](https://calendly.com/abelardo-romo/baz-mentoria-1-1)
+- [Abelardo Romo](https://calendly.com/abelardo-romo/baz-mentoria-1-91)
 - [Luca Bacasehua](https://calendly.com/luca-bacasehua/baz-mentoria-1-1)
-- [Karla Espiritu]
+- [Karla Espiritu](https://calendly.com/karla-espiritu/qa-baz-istqb)
 - [Elizabeth Perez](https://calendly.com/elizabeth-perez-melendez/baz-mentoria-1-1)
 - [Héctor Hurtado](https://calendly.com/hectorhurtadof/baz-mentoria-1-1)
 - [Marco Olivares](https://calendly.com/marco-olivares/baz-mentoria-1-1)
