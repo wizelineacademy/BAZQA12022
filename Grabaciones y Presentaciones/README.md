@@ -10,9 +10,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1Ok_YTNCumJGwEZueMJKB61_MtLt5uv48/view?usp=sharing)
 
 # Semana 2
-- [Lunes 5 Sep/SDLC]
+- [Lunes 5 Sep/SDLC](https://drive.google.com/file/d/1uAKLBIGNXy1b64VP1Kbqc6jGL4lbNh4r/view?usp=sharing)
 - 📺 [Grabacion Lunes 5 Sep]
-- [Miércoles 7 Sep/Enfoques de prueba]
+- [Miércoles 7 Sep/Enfoques de prueba](https://drive.google.com/file/d/14DvY7jWUoyhRiG3d0tlmx9T6P5Eu0OYr/view?usp=sharing)
 - 📺 [Grabacion Miércoles 7 Sep]
 - [Viernes 9 Sep/Repaso]
 - 📺 [Grabacion Viernes 9 Sep]
