@@ -81,7 +81,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Elizabeth Perez](https://calendly.com/elizabeth-perez-melendez/baz-mentoria-1-1)
 - [Héctor Hurtado](https://calendly.com/hectorhurtadof/baz-mentoria-1-1)
 - [Marco Olivares](https://calendly.com/marco-olivares/baz-mentoria-1-1)
-- [Griss Esquivel]
+- [Griss Esquivel](https://calendly.com/grissell-esquivel/baz-mentoria-1-1)
 - [Narda Ballesteros](https://calendly.com/nardaballesteros/baz-mentoria-1-1)
 - [Ricardo Rodríguez](https://calendly.com/ricardo-rodriguezr/baz-mentoria-1-1)
 
