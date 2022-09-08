@@ -13,7 +13,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Lunes 5 Sep/SDLC](https://drive.google.com/file/d/1uAKLBIGNXy1b64VP1Kbqc6jGL4lbNh4r/view?usp=sharing)
 - 📺 [Grabacion Lunes 5 Sep]
 - [Miércoles 7 Sep/Enfoques de prueba](https://drive.google.com/file/d/14DvY7jWUoyhRiG3d0tlmx9T6P5Eu0OYr/view?usp=sharing)
-- 📺 [Grabacion Miércoles 7 Sep]
+- 📺 [Grabacion Miércoles 7 Sep](https://drive.google.com/file/d/1q8eATfdFrshx1lgac3EZ8mnqx4OsZh-v/view?usp=sharing)
 - [Viernes 9 Sep/Repaso]
 - 📺 [Grabacion Viernes 9 Sep]
 
