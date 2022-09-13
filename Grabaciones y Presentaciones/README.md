@@ -19,7 +19,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 3
 - [Lunes 12 Sep/Pruebas estáticas](https://drive.google.com/file/d/1XVHbbJ0KBvrFuLI_baE3NODFx7ViNKyX/view?usp=sharing)
-- 📺 [Grabacion Lunes 12 Sep]
+- 📺 [Grabacion Lunes 12 Sep](https://drive.google.com/file/d/17mRUOB82bq9b9F6ddVof_aYFnccz25-D/view?usp=sharing)
 - [Miércoles 14 Sep/Técnicas de prueba I](https://drive.google.com/file/d/1uSJHyquMdcEQnuw7GyjCqhA5q60rYJpS/view?usp=sharing)
 - 📺 [Miércoles 14 Sep]
 
