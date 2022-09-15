@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Lunes 12 Sep/Pruebas estáticas](https://drive.google.com/file/d/1XVHbbJ0KBvrFuLI_baE3NODFx7ViNKyX/view?usp=sharing)
 - 📺 [Grabacion Lunes 12 Sep](https://drive.google.com/file/d/17mRUOB82bq9b9F6ddVof_aYFnccz25-D/view?usp=sharing)
 - [Miércoles 14 Sep/Técnicas de prueba I](https://drive.google.com/file/d/1uSJHyquMdcEQnuw7GyjCqhA5q60rYJpS/view?usp=sharing)
-- 📺 [Miércoles 14 Sep]
+- 📺 [Miércoles 14 Sep](https://drive.google.com/file/d/1ER_-Pxs0qmOVsli177KMJbgGh4tS1YJ4/view?usp=sharing)
 
 # Semana 4
 - [Lunes 19 Sep/Técnicas de prueba II]
