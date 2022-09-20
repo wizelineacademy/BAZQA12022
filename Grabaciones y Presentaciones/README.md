@@ -25,7 +25,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 4
 - [Lunes 19 Sep/Técnicas de prueba II]
-- 📺 [Lunes 19 Sep]
+- 📺 [Lunes 19 Sep](https://drive.google.com/file/d/1cUo86j_wU6yAcDLpJ2bqYznqEqb436S7/view?usp=sharing)
 - [Miércoles 21 Sep/Técnicas de prueba III]
 - 📺 [Miércoles 21 Sep]
 - [Viernes 23 Sep/Repaso]
