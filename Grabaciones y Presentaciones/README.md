@@ -33,7 +33,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 5
 - [Lunes 26 Sep/Administración de Pruebas I]
-- 📺 [Lunes 26 Sep]
+- 📺 [Lunes 26 Sep](https://drive.google.com/file/d/1jhi-BSwaExvddBzWICwgf2uIjxWhQM82/view?usp=sharing)
 - [Miércoles 28 Sep/Administración de Pruebas II]
 - 📺 [Miércoles 28 Sep]
 - [Viernes 30 Sep/Repaso]
