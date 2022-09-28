@@ -24,17 +24,17 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Miércoles 14 Sep](https://drive.google.com/file/d/1ER_-Pxs0qmOVsli177KMJbgGh4tS1YJ4/view?usp=sharing)
 
 # Semana 4
-- [Lunes 19 Sep/Técnicas de prueba II]
+- [Lunes 19 Sep/Técnicas de prueba II](https://drive.google.com/file/d/1788riVX3mHU80N5oRMfSHXJjO6kOCGYV/view?usp=sharing)
 - 📺 [Lunes 19 Sep](https://drive.google.com/file/d/1788riVX3mHU80N5oRMfSHXJjO6kOCGYV/view?usp=sharing)
-- [Miércoles 21 Sep/Técnicas de prueba III]
+- [Miércoles 21 Sep/Técnicas de prueba III](https://drive.google.com/file/d/13gcFZ4sXaPP2A6dLTL1CJol7IAAusCpE/view?usp=sharing)
 - 📺 [Miércoles 21 Sep](https://drive.google.com/file/d/1gaQlP3hqobRPZNE0iinX8FApaDZdhoKg/view?usp=sharing)
 - [Viernes 23 Sep/Repaso]
 - 📺 [Viernes 23 Sep]
 
 # Semana 5
-- [Lunes 26 Sep/Administración de Pruebas I]
+- [Lunes 26 Sep/Administración de Pruebas I](https://drive.google.com/drive/u/0/folders/1HPbH0GoOPzpqiSA4T48h9XTC224L8996)
 - 📺 [Lunes 26 Sep](https://drive.google.com/file/d/1jhi-BSwaExvddBzWICwgf2uIjxWhQM82/view?usp=sharing)
-- [Miércoles 28 Sep/Administración de Pruebas II]
+- [Miércoles 28 Sep/Administración de Pruebas II](https://drive.google.com/drive/u/0/folders/1HPbH0GoOPzpqiSA4T48h9XTC224L8996)
 - 📺 [Miércoles 28 Sep]
 - [Viernes 30 Sep/Repaso]
 - 📺 [Viernes 30 Sep]
