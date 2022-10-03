@@ -1,19 +1,19 @@
 # Digital Skills Accelerator Training - QA
 
 # I. Bienvenida
-Bienvenido a tu capacitación de QA la cual consta de 5 semanas de entrenamiento.
+Bienvenido a tu capacitación de QA la cual consta de 3 semanas de entrenamiento.
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
 
 [Calendario](https://drive.google.com/file/d/1b2MCouxxwTOzeBqTCJnvgKFzDUH-PH9J/view?usp=sharing)
 
-[Liga Acceso Telegram grupal](https://t.me/+0C4sA7uxRvVjNTFh)
+[Liga Acceso Telegram grupal](https://t.me/+pygTKAHgrto4NzUx)
 
 **Sesiones en Vivo** 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/81290419498?pwd=RFhlc0VpMmF4Uy9IaVo3amlPTWYrZz09) en caso de no poderse presentar
-- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/83190474733)
+- Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/86458411568) en caso de no poderse presentar
+- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/86458411568)
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
@@ -29,7 +29,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
-Los temas estan divididos en 5 semanas, 3 sesiones por semana. 
+Los temas estan divididos en 3 semanas, 3 sesiones por semana. 
 
 ## :bookmark_tabs: Sesiones
 
@@ -65,9 +65,8 @@ En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabacion
 
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
-
-Aqui encontrarás las instrucciones para completar tu Projecto final.
+Para aprobar el curso se te hará una evaluación verbal via zoom en la tercer semana, en cual reforzaras y aplicaras los conocimientos que has adquirido.
+En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
@@ -87,7 +86,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
-- **BAZ Superapp**: En este [documento](https://docs.google.com/spreadsheets/d/1s5AqSzC3n0YEgiJry5rCa152tEzda5TJtMzM9VEfJ4U/edit?usp=sharing) encontrarás la información sobre el proyecto asignado según tu gremio y líder de gremio.
+- **BAZ Superapp**: 
 - **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
 
 # VII. Contacto Wizeline Academy
