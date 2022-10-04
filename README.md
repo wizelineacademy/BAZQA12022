@@ -59,7 +59,7 @@ Para aprobar el curso se te hará una evaluación verbal vía zoom en la tercer 
 En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
 
 # V. Agenda tu mentoría 📆
-Si deseas una tener una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
+Si deseas tener una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
 
