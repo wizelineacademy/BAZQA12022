@@ -52,7 +52,7 @@ Los temas están divididos en 3 semanas, 3 sesiones por semana.
 
 En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso del GRUPO 1.
 
-En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso del **GRUPO 2**.
+En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones%20Grupo%202.md) encontrarás todas las grabaciones y presentaciones del curso del **GRUPO 2**.
 
 
 # IV. Proyecto Final (Capstone Project)
