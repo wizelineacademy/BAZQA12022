@@ -1,4 +1,4 @@
-## 📺 Grabaciones y Presentaciones
+## 📺 Grabaciones y Presentaciones - GRUPO 1
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
 # Semana 1
