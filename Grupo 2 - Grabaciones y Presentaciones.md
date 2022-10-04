@@ -4,23 +4,23 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 1
 - [Lunes 3 Oct/Fundamentos de las pruebas I](https://drive.google.com/file/d/1YrubymBR27dqwdYfrQVRK-r_X2Tb19rZ/view?usp=sharing)
 - 📺 [Grabación Lunes 3 Oct](https://drive.google.com/file/d/1V1Nn_bMjIYdxHQLRAfshcbgVA9wPUPJu/view?usp=sharing)
-- [Miércoles 5 Oct/Fundamentos de las pruebas II](https://drive.google.com/file/d/11dwjqaWtZ_yhN6JODDXErrs0pMSquJxg/view?usp=sharing)
+- [Miércoles 5 Oct/Fundamentos de las pruebas II](https://drive.google.com/file/d/14pWlGdLQ-1rf5LKXlUNYK5L9QpaB2O_1/view?usp=sharing)
 - 📺 [Grabación Miércoles 5 Oct]
-- [Viernes 7 Oct/Prueba a lo largo del ciclo de vida de desarrollo de software SDLC](https://drive.google.com/file/d/1uAKLBIGNXy1b64VP1Kbqc6jGL4lbNh4r/view?usp=sharing)
+- [Viernes 7 Oct/Prueba a lo largo del ciclo de vida de desarrollo de software SDLC]
 - 📺 [Grabación Viernes 7 Oct]
 
 # Semana 2
-- [Martes 11 Oct/Enfoques de pruebas](https://drive.google.com/file/d/14DvY7jWUoyhRiG3d0tlmx9T6P5Eu0OYr/view?usp=sharing)
+- [Martes 11 Oct/Enfoques de pruebas]
 - 📺 [Grabación Lunes 11 Oct]
-- [Jueves 13 Oct/Pruebas estáticas](https://drive.google.com/file/d/1XVHbbJ0KBvrFuLI_baE3NODFx7ViNKyX/view?usp=sharing)
+- [Jueves 13 Oct/Pruebas estáticas]
 - 📺 [Grabación Jueves 13 Oct]
-- [Viernes 14 Oct/Técnicas de prueba 1](https://drive.google.com/file/d/1uSJHyquMdcEQnuw7GyjCqhA5q60rYJpS/view?usp=sharing)
+- [Viernes 14 Oct/Técnicas de prueba 1]
 - 📺 [Grabación Viernes 14 Oct]
 
 # Semana 3
-- [Martes 18 Oct/Técnicas de prueba II](https://drive.google.com/file/d/1788riVX3mHU80N5oRMfSHXJjO6kOCGYV/view?usp=sharing)
+- [Martes 18 Oct/Técnicas de prueba II]
 - 📺 [Grabación Martes 18 Oct]
-- [Jueves 20 Oct/Técnicas de prueba III](https://drive.google.com/file/d/13gcFZ4sXaPP2A6dLTL1CJol7IAAusCpE/view?usp=sharing)
+- [Jueves 20 Oct/Técnicas de prueba III]
 - 📺 [Grabación Jueves 20 Oct]
-- [Viernes 21 Oct/Administración de prueba](https://drive.google.com/drive/u/0/folders/1HPbH0GoOPzpqiSA4T48h9XTC224L8996)
+- [Viernes 21 Oct/Administración de prueba]
 - 📺 [Grabación 14 Sep]
