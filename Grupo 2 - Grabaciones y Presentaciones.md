@@ -2,7 +2,7 @@
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
 # Semana 1
-- [Lunes 3 Oct/Fundamentos de las pruebas I](https://drive.google.com/file/d/1V1Nn_bMjIYdxHQLRAfshcbgVA9wPUPJu/view?usp=sharing)
+- [Lunes 3 Oct/Fundamentos de las pruebas I]
 - 📺 [Grabación Lunes 3 Oct](https://drive.google.com/file/d/1V1Nn_bMjIYdxHQLRAfshcbgVA9wPUPJu/view?usp=sharing)
 - [Miércoles 5 Oct/Fundamentos de las pruebas II](https://drive.google.com/file/d/11dwjqaWtZ_yhN6JODDXErrs0pMSquJxg/view?usp=sharing)
 - 📺 [Grabación Miércoles 5 Oct]
