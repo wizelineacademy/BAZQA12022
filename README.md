@@ -16,11 +16,11 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/86458411568)
 
 **Mentorías Grupales**
-- Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
+- Son sesiones de mentoría en sitio que se llevarán a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
 - Lunes y Miércoles: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
+- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 - Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
@@ -29,7 +29,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
-Los temas estan divididos en 3 semanas, 3 sesiones por semana. 
+Los temas están divididos en 3 semanas, 3 sesiones por semana. 
 
 ## :bookmark_tabs: Sesiones
 
@@ -55,13 +55,13 @@ En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabacion
 
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
-Para aprobar el curso se te hará una evaluación verbal via zoom en la tercer semana, en cual reforzaras y aplicaras los conocimientos que has adquirido.
+Para aprobar el curso se te hará una evaluación verbal vía zoom en la tercer semana, en cual reforzarás y aplicarás los conocimientos que has adquirido.
 En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
 
-# V. Agenda tu mentoria 📆
-Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
+# V. Agenda tu mentoría 📆
+Si deseas una tener una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
-Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
+Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
 
 - [Fernando Flores](https://calendly.com/lfernandofloresc/baz-mentorias-1-1)
 - [Abelardo Romo](https://calendly.com/abelardo-romo/baz-mentoria-1-91)
