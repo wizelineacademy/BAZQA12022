@@ -11,7 +11,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 [Liga Acceso Telegram grupal](https://t.me/+pygTKAHgrto4NzUx)
 
 **Sesiones en Vivo** 
-- Estas son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
 - Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/86458411568) en caso de no poderse presentar
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/86458411568)
 
@@ -20,14 +20,14 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Lunes y Miércoles: 4pm en oficinas de Wizeline.
 
 **Mentorías On Demand**
-- Estas son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. 
+- Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. 
 - Las mentorías tienen una duración de 1 hora, son en línea, son bajo demanda y son **obligatorias** para tener derecho a tu Proyecto Final. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
-- Esto es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
+- Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
-- Este es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
+- Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
 Los temas están divididos en 3 semanas, 3 sesiones por semana. 
