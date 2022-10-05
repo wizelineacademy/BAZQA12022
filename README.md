@@ -62,8 +62,8 @@ Para aprobar el curso se te hará una evaluación verbal vía Zoom en la tercer 
 En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **3 mentorías on-demand**.
 
-# V. Agenda tu mentoría 📆
-Si deseas tener una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
+# V. Agenda tu mentoría on-demand 📆
+Para agendar una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
 
