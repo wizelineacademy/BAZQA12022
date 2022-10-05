@@ -1,7 +1,7 @@
 # Digital Skills Accelerator Training - QA
 
 # I. Bienvenida
-Bienvenido a tu capacitación de QA la cual consta de 3 semanas de entrenamiento.
+Bienvenido a tu capacitación de QA que consta de 3 semanas de entrenamiento.
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos:
