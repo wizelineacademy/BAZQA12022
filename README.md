@@ -4,29 +4,29 @@
 Bienvenido a tu capacitación de QA la cual consta de 3 semanas de entrenamiento.
 
 # II. Información general del entrenamiento
-El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
+El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos:
 
 [Calendario](https://drive.google.com/file/d/1JsSdb65-CDtJpYWdS4EjkO-C0CbRb_hD/view?usp=sharing)
 
 [Liga Acceso Telegram grupal](https://t.me/+pygTKAHgrto4NzUx)
 
 **Sesiones en Vivo** 
-- Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- Estas son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
 - Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/86458411568) en caso de no poderse presentar
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/86458411568)
 
 **Mentorías Grupales**
-- Son sesiones de mentoría en sitio que se llevarán a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
+- Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
 - Lunes y Miércoles: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
+- Estas son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea, son sobre demanda y son **obligatorias** para tener derecho a tu proyecto final. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
-- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+- Esto es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
-- Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
+- Este es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
 Los temas están divididos en 3 semanas, 3 sesiones por semana. 
@@ -57,8 +57,9 @@ En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabacion
 
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
-Para aprobar el curso se te hará una evaluación verbal vía zoom en la tercer semana, en cual reforzarás y aplicarás los conocimientos que has adquirido.
+Para aprobar el curso se te hará una evaluación verbal vía zoom en la tercer semana, en la cual reforzarás y aplicarás los conocimientos que has adquirido.
 En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
+- Para poder presentar tu proyecto final, debes contar con un mínimo de 3 mentorías on-demand.
 
 # V. Agenda tu mentoría 📆
 Si deseas tener una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
