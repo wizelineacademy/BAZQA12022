@@ -58,7 +58,7 @@ En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabacion
 
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
-Para aprobar el curso se te hará una evaluación verbal vía zoom en la tercer semana, en la cual reforzarás y aplicarás los conocimientos que has adquirido.
+Para aprobar el curso se te hará una evaluación verbal vía Zoom en la tercer semana, en la cual reforzarás y aplicarás los conocimientos que has adquirido.
 En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **3 mentorías on-demand**.
 
