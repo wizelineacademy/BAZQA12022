@@ -4,7 +4,7 @@
 Bienvenido a tu capacitación de QA que consta de 3 semanas de entrenamiento.
 
 # II. Información general del entrenamiento
-El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos:
+El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo, de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos:
 
 [Calendario](https://drive.google.com/file/d/1JsSdb65-CDtJpYWdS4EjkO-C0CbRb_hD/view?usp=sharing)
 
@@ -17,10 +17,10 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
-- Lunes y Miércoles: 4pm en oficinas de Wizeline
+- Lunes y Miércoles: 4pm en oficinas de Wizeline.
 
 **Mentorías On Demand**
-- Estas son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea, son sobre demanda y son **obligatorias** para tener derecho a tu proyecto final. Más abajo están las instrucciones y ligas para solicitar una sesión.
+- Estas son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea, son bajo demanda y son **obligatorias** para tener derecho a tu proyecto final. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 - Esto es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
@@ -52,7 +52,7 @@ Los temas están divididos en 3 semanas, 3 sesiones por semana.
 
 En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso del GRUPO 1.
 
-En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grupo%202%20-%20Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso del **GRUPO 2**.
+En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones%20Grupo%202.md) encontrarás todas las grabaciones y presentaciones del curso del **GRUPO 2**.
 
 
 # IV. Proyecto Final (Capstone Project)
@@ -77,12 +77,16 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calenda
 - [Narda Ballesteros](https://calendly.com/nardaballesteros/baz-mentoria-1-1)
 - [Ricardo Rodríguez](https://calendly.com/ricardo-rodriguezr/baz-mentoria-1-1)
 
+# VI. OTRAS CONSIDERACIONES
+- En las sesiones en línea, es **obligatorio** tener la cámara prendida.
+- Debes asisitir a mínimo de 5 sesiones presenciales para tener derecho a presentar tu Proyecto Final.
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy y a tu líder de BAZ.
 
-# VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
+# VII. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 - **BAZ Superapp**: 
 - **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
 
-# VII. Contacto Wizeline Academy
+# VIII. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
 
 :email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
