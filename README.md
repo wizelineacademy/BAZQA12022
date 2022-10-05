@@ -81,7 +81,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calenda
 # VI. OTRAS CONSIDERACIONES
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 5 sesiones presenciales para tener derecho a presentar tu Proyecto Final.
-- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy y a tu líder de BAZ.
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio.
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
 # VII. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
