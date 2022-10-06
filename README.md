@@ -78,18 +78,12 @@ En la 3er semana se te agendará la sesión y te notificaremos por correo el dí
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
 # V. Agenda tu mentoría on-demand 📆
-**ASIGNACIONES DE MENTORÍAS**
-**ALUMNO**                        **MENTOR**
-DAVID EDUARDO RUEDA HERNANDEZ     GRISSELL ANDREINA
-ANA LIDIA TABOADA AVILEZ          GRISSELL ANDREINA
-ROBERTO CARLOS CHAVEZ GARCIA.     MARCO OLIVARES
-SANDRA FABIOLA GONZALEZ GARCIA    MARCO OLIVARES
-JORGE LUIS CORRO ROJAS.           RICARDO RODRÍGUEZ
-ALEJANDRO PALIZADA SANCHEZ        RICARDO RODRÍGUEZ
-CARLOS MIGUEL GOMEZ ZAMORA        LUCA BACASEHUA
-ALFREDO CAJICA MARTINEZ           LUCA BACASEHUA
-KARLA MARGARITA CASTILLO ZARATE   LUCA BACASEHUA
 
+GRISSELL ANDREINA: DAVID EDUARDO RUEDA HERNANDEZ Y ANA LIDIA TABOADA AVILEZ     
+MARCO OLIVARES: ROBERTO CARLOS CHAVEZ GARCIA Y SANDRA FABIOLA GONZALEZ GARCIA         
+RICARDO RODRÍGUEZ: JORGE LUIS CORRO ROJAS Y ALEJANDRO PALIZADA SANCHEZ         
+LUCA BACASEHUA: CARLOS MIGUEL GOMEZ ZAMORA, ALFREDO CAJICA MARTINEZ Y KARLA MARGARITA CASTILLO ZARATE        
+   
 Para agendar una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
