@@ -41,12 +41,12 @@ Los temas están divididos en 3 semanas, 3 sesiones por semana.
 ### Semana 1  
    1. [Fundamentos de pruebas I](./Semana%201/Fundamentos%20de%20las%20pruebas%20I/README.md)
    2. [Fundamentos de pruebas II](./Semana%201/Fundamentos%20de%20las%20pruebas%20II/README.md)
-   3. Repaso fundamentos de pruebas
+   3. [Prueba a lo largo del ciclo de Vida de Desarrollo de Software (SDLC)](./Semana%202/Prueba%20a%20lo%20largo%20del%20ciclo%20de%20Vida%20de%20Desarrollo%20de%20Software/README.md) 
 
 ### Semana 2  
-   1. [Prueba a lo largo del ciclo de Vida de Desarrollo de Software (SDLC)](./Semana%202/Prueba%20a%20lo%20largo%20del%20ciclo%20de%20Vida%20de%20Desarrollo%20de%20Software/README.md) 
-   2. [Enfoques de pruebas](./Semana%202/Enfoques%20de%20las%20pruebas/README.md)
-   3. Repaso Pruebas a lo largo del SDLC, y enfoques de prueba
+   1. [Enfoques de pruebas](./Semana%202/Enfoques%20de%20las%20pruebas/README.md)
+   2. [Pruebas estáticas](./Semana%203/Pruebas%20estaticas/README.md)
+   3. [Técnicas de prueba I](./Semana%203/Tecnicas%20de%20prueba%20I/README.md)
 
 ### Semana 3  
    1. [Pruebas estáticas](./Semana%203/Pruebas%20estaticas/README.md)
@@ -59,8 +59,8 @@ Los temas están divididos en 3 semanas, 3 sesiones por semana.
    3. Repaso de técnicas de prueba
 
 ### Semana 5  
-   1. [Gestión de la prueba]()
-   2. [Soporte de Herramientas para el Proceso de Prueba]()
+   1. [Gestión de la prueba](./Semana%205/Gesti%C3%B3n%20de%20la%20prueba/README.md)
+   2. [Soporte de Herramientas para el Proceso de Prueba](./Semana%205/Soporte%20de%20Herramientas%20para%20el%20Proceso%20de%20Prueba/README.md)
    3. Técnicas de administración de pruebas
    
    ## 📺 Grabaciones sesiones y Presentaciones

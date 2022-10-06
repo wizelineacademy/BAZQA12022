@@ -1,4 +1,4 @@
-## 📺 Grabaciones y Presentaciones
+## 📺 GRUPO 1 - Grabaciones y Presentaciones 
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
 # Semana 1
@@ -37,5 +37,5 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 28 Sep/Administración de Pruebas II](https://drive.google.com/drive/u/0/folders/1HPbH0GoOPzpqiSA4T48h9XTC224L8996)
 - 📺 [Miércoles 28 Sep](https://drive.google.com/file/d/1Y3Ti_IvkOE2rznO-ibpb5zpVgpQOJgfn/view?usp=sharing)
 - [Viernes 30 Sep/Repaso]
-- 📺 [Viernes 30 Sep]
+- 📺 [Viernes 30 Sep](https://drive.google.com/file/d/1D9AnkKvml6Jw5aEQDOsNteL0Z06wD2Fh/view?usp=sharing)
 
