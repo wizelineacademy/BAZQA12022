@@ -6,7 +6,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Lunes 3 Oct](https://drive.google.com/file/d/1V1Nn_bMjIYdxHQLRAfshcbgVA9wPUPJu/view?usp=sharing)
 - [Miércoles 5 Oct/Fundamentos de las pruebas II](https://drive.google.com/file/d/1WLhHxBzzf3e7JOwiYNy1Bh757l_BQq97/view?usp=sharing)
 - 📺 [Grabación Miércoles 5 Oct](https://drive.google.com/file/d/1RM2RiXgeoN5XeWr_Zi4f4fNe3otUwyCY/view?usp=sharing)
-- [Viernes 7 Oct/Prueba a lo largo del ciclo de vida de desarrollo de software SDLC]
+- [Viernes 7 Oct/Prueba a lo largo del ciclo de vida de desarrollo de software SDLC](https://drive.google.com/file/d/1yT7IysG4F8d12FIa6UIiRaR4sQ54221c/view?usp=sharing)
 - 📺 [Grabación Viernes 7 Oct]
 
 # Semana 2
