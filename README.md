@@ -1,35 +1,40 @@
 # Digital Skills Accelerator Training - QA
 
 # I. Bienvenida
-Bienvenido a tu capacitación de QA la cual consta de 5 semanas de entrenamiento.
+Bienvenido a tu capacitación de QA que consta de 3 semanas de entrenamiento.
 
 # II. Información general del entrenamiento
-El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
+El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo, de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos:
 
-[Calendario](https://drive.google.com/file/d/1b2MCouxxwTOzeBqTCJnvgKFzDUH-PH9J/view?usp=sharing)
+[Calendario](https://drive.google.com/file/d/1JsSdb65-CDtJpYWdS4EjkO-C0CbRb_hD/view?usp=sharing)
 
-[Liga Acceso Telegram grupal](https://t.me/+0C4sA7uxRvVjNTFh)
+[Liga Acceso Telegram grupal](https://t.me/+pygTKAHgrto4NzUx)
 
 **Sesiones en Vivo** 
-- Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/81290419498?pwd=RFhlc0VpMmF4Uy9IaVo3amlPTWYrZz09) en caso de no poderse presentar
-- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/83190474733)
+- Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/86458411568) en caso de no poderse presentar
+- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/86458411568)
+
+- En las sesiones en línea, es **obligatorio** tener la cámara prendida.
+- Debes asisitir a mínimo 5 sesiones presenciales para tener derecho a presentar tu Proyecto Final
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
 
 **Mentorías Grupales**
-- Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
-- Lunes y Miércoles: 4pm en oficinas de Wizeline
+- Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
+- Lunes y Miércoles: 4pm en oficinas de Wizeline.
 
 **Mentorías On Demand**
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
+- Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. 
+- Las mentorías tienen una duración de 1 hora, son en línea, son bajo demanda y son **obligatorias** para tener derecho a tu Proyecto Final. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
-- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+- Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
-- Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
+- Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
-Los temas estan divididos en 5 semanas, 3 sesiones por semana. 
+Los temas están divididos en 3 semanas, 3 sesiones por semana. 
 
 ## :bookmark_tabs: Sesiones
 
@@ -49,30 +54,33 @@ Los temas estan divididos en 5 semanas, 3 sesiones por semana.
    3. Repaso pruebas estáticas, y técnicas de pruebas I
 
 ### Semana 4  
-   1. Técnicas de prueba II
-   2. Técnicas de prueba III
+   1. [Técnicas de prueba II](./Semana%204/Tecnicas%20de%20prueba%20II/README.md)
+   2. [Técnicas de prueba III](./Semana%204/Tecnicas%20de%20prueba%20III/README.md)
    3. Repaso de técnicas de prueba
 
 ### Semana 5  
-   1. Administración de pruebas I
-   2. Administración de pruebas II
+   1. [Gestión de la prueba]()
+   2. [Soporte de Herramientas para el Proceso de Prueba]()
    3. Técnicas de administración de pruebas
    
    ## 📺 Grabaciones sesiones y Presentaciones
 
-En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso.
+En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso del GRUPO 1.
+
+En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones%20Grupo%202.md) encontrarás todas las grabaciones y presentaciones del curso del **GRUPO 2**.
 
 
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
+Para aprobar el curso se te hará una evaluación verbal vía Zoom en la tercer semana, en la cual reforzarás y aplicarás los conocimientos que has adquirido.
+En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
+- Para poder presentar tu proyecto final, debes contar con un mínimo de **3 mentorías on-demand**
+- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-Aqui encontrarás las instrucciones para completar tu Projecto final.
+# V. Agenda tu mentoría on-demand 📆
+Para agendar una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
-# V. Agenda tu mentoria 📆
-Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
-
-Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
+Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
 
 - [Fernando Flores](https://calendly.com/lfernandofloresc/baz-mentorias-1-1)
 - [Abelardo Romo](https://calendly.com/abelardo-romo/baz-mentoria-1-91)
@@ -87,11 +95,10 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
-- **BAZ Superapp**: En este [documento](https://docs.google.com/spreadsheets/d/1s5AqSzC3n0YEgiJry5rCa152tEzda5TJtMzM9VEfJ4U/edit?usp=sharing) encontrarás la información sobre el proyecto asignado según tu gremio y líder de gremio.
+- **BAZ Superapp**: 
 - **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
 
 # VII. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
 
 :email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
-
