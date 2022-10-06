@@ -86,7 +86,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calenda
 - [Abelardo Romo](https://calendly.com/abelardo-romo/baz-mentoria-1-91)
 - [Luca Bacasehua](https://calendly.com/luca-bacasehua/baz-mentoria-1-1)
 - [Karla Espiritu](https://calendly.com/karla-espiritu/qa-baz-istqb)
-- [Elizabeth Perez](https://calendly.com/elizabeth-perez-melendez/baz-mentoria-1-1)
+- [Elizabeth Perez](https://calendly.com/elizabeth-perez-melendez/baz-mentoria-1-1)- No disponible
 - [Héctor Hurtado](https://calendly.com/hectorhurtadof/baz-mentoria-1-1)
 - [Marco Olivares](https://calendly.com/marco-olivares/baz-mentoria-1-1)
 - [Griss Esquivel](https://calendly.com/grissell-esquivel/baz-mentoria-1-1)
