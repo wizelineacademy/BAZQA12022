@@ -15,6 +15,10 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/86458411568) en caso de no poderse presentar
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/86458411568)
 
+- En las sesiones en línea, es **obligatorio** tener la cámara prendida.
+- Debes asisitir a mínimo 5 sesiones presenciales para tener derecho a presentar tu Proyecto Final
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
+
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
 - Lunes y Miércoles: 4pm en oficinas de Wizeline.
@@ -60,7 +64,8 @@ En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabacion
 ✴️ **Objetivo**
 Para aprobar el curso se te hará una evaluación verbal vía Zoom en la tercer semana, en la cual reforzarás y aplicarás los conocimientos que has adquirido.
 En la 3er semana se te agendará la sesión y te notificaremos por correo el día y la hora.
-- Para poder presentar tu proyecto final, debes contar con un mínimo de **3 mentorías on-demand**.
+- Para poder presentar tu proyecto final, debes contar con un mínimo de **3 mentorías on-demand**
+- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
 # V. Agenda tu mentoría on-demand 📆
 Para agendar una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
@@ -78,17 +83,12 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calenda
 - [Narda Ballesteros](https://calendly.com/nardaballesteros/baz-mentoria-1-1)
 - [Ricardo Rodríguez](https://calendly.com/ricardo-rodriguezr/baz-mentoria-1-1)
 
-# VI. OTRAS CONSIDERACIONES
-- En las sesiones en línea, es **obligatorio** tener la cámara prendida.
-- Debes asisitir a mínimo 5 sesiones presenciales para tener derecho a presentar tu Proyecto Final.
-- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio.
-- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-# VII. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
+# VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 - **BAZ Superapp**: 
 - **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
 
-# VIII. Contacto Wizeline Academy
+# VII. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
 
 :email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
