@@ -67,7 +67,7 @@ Los temas están divididos en 3 semanas, 3 sesiones por semana.
 
 En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones/README.md) encontrarás todas las grabaciones y presentaciones del curso del GRUPO 1.
 
-En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20presentaciones%20Grupo%202/README.MD) encontrarás todas las grabaciones y presentaciones del curso del **GRUPO 2**.
+En [esta liga](https://github.com/wizelineacademy/BAZQA12022/blob/main/Grabaciones%20y%20Presentaciones%20Grupo%202.md) encontrarás todas las grabaciones y presentaciones del curso del **GRUPO 2**.
 
 
 # IV. Proyecto Final (Capstone Project)
@@ -78,12 +78,8 @@ En la 3er semana se te agendará la sesión y te notificaremos por correo el dí
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
 # V. Agenda tu mentoría on-demand 📆
+![Asignaciones](https://github.com/wizelineacademy/BAZQA12022/blob/main/asignaciones.png)
 
-**GRISSELL ANDREINA**: DAVID EDUARDO RUEDA HERNANDEZ Y ANA LIDIA TABOADA AVILEZ     
-**MARCO OLIVARES**: ROBERTO CARLOS CHAVEZ GARCIA Y SANDRA FABIOLA GONZALEZ GARCIA         
-**RICARDO RODRÍGUEZ**: JORGE LUIS CORRO ROJAS Y ALEJANDRO PALIZADA SANCHEZ         
-**LUCA BACASEHUA**: CARLOS MIGUEL GOMEZ ZAMORA, ALFREDO CAJICA MARTINEZ Y KARLA MARGARITA CASTILLO ZARATE        
-   
 Para agendar una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
