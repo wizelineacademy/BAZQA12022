@@ -24,7 +24,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Martes y Jueves: 4pm en oficinas de Wizeline.
 
 **Mentorías On Demand**
-- Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. 
+- Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el Proyecto Final. 
 - Las mentorías tienen una duración de 1 hora, son en línea, son bajo demanda y son **obligatorias** para tener derecho a tu Proyecto Final. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
