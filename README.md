@@ -12,7 +12,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Sesiones en Vivo** 
 - Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/86458411568) en caso de no poderse presentar
+- Martes y Jueves: 2pm en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/86458411568) en caso de no poderse presentar
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/86458411568)
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
@@ -21,7 +21,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
-- Lunes y Miércoles: 4pm en oficinas de Wizeline.
+- Martes y Jueves: 4pm en oficinas de Wizeline.
 
 **Mentorías On Demand**
 - Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. 
@@ -83,6 +83,7 @@ En la 3er semana se te agendará la sesión y te notificaremos por correo el dí
 Para agendar una mentoría personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/ADsdKiRV5a42Ev5UA) al final de tu mentoría.
 
 - [Fernando Flores](https://calendly.com/lfernandofloresc/baz-mentorias-1-1)
 - [Abelardo Romo](https://calendly.com/abelardo-romo/baz-mentoria-1-91)
