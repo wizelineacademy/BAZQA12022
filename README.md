@@ -49,19 +49,18 @@ Los temas están divididos en 3 semanas, 3 sesiones por semana.
    3. [Técnicas de prueba I](./Semana%203/Tecnicas%20de%20prueba%20I/README.md)
 
 ### Semana 3  
-   1. [Pruebas estáticas](./Semana%203/Pruebas%20estaticas/README.md)
-   2. [Técnicas de prueba I](./Semana%203/Tecnicas%20de%20prueba%20I/README.md)
-   3. Repaso pruebas estáticas, y técnicas de pruebas I
-
-### Semana 4  
    1. [Técnicas de prueba II](./Semana%204/Tecnicas%20de%20prueba%20II/README.md)
    2. [Técnicas de prueba III](./Semana%204/Tecnicas%20de%20prueba%20III/README.md)
-   3. Repaso de técnicas de prueba
+   3. Técnicas de administración de pruebas I
+   4. Técnicas de administración de pruebas II
 
-### Semana 5  
-   1. [Gestión de la prueba](./Semana%205/Gesti%C3%B3n%20de%20la%20prueba/README.md)
-   2. [Soporte de Herramientas para el Proceso de Prueba](./Semana%205/Soporte%20de%20Herramientas%20para%20el%20Proceso%20de%20Prueba/README.md)
-   3. Técnicas de administración de pruebas
+
+### Material adicional
+   1. [Pruebas estáticas](./Semana%203/Pruebas%20estaticas/README.md) 
+   2. [Gestión de la prueba](./Semana%205/Gesti%C3%B3n%20de%20la%20prueba/README.md)
+   3. [Soporte de Herramientas para el Proceso de Prueba](./Semana%205/Soporte%20de%20Herramientas%20para%20el%20Proceso%20de%20Prueba/README.md)
+   
+
    
    ## 📺 Grabaciones sesiones y Presentaciones
 
