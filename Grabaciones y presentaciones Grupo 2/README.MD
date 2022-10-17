@@ -15,7 +15,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 13 Oct/Pruebas estáticas](https://drive.google.com/file/d/1UEN1UC27QMrfWaAPIdk2UmOjczCrc9Fn/view?usp=sharing)
 - 📺 [Grabación Jueves 13 Oct](https://drive.google.com/file/d/1Fq34m7fl_AJZKsKdgzAmtnKkzQvgT4n8/view?usp=sharing)
 - [Viernes 14 Oct/Técnicas de prueba 1](https://drive.google.com/file/d/18GyeDP7vUi4FeX5S5zhuAanVsoQ1yfQS/view?usp=sharing)
-- 📺 [Grabación Viernes 14 Oct]
+- 📺 [Grabación Viernes 14 Oct](https://drive.google.com/file/d/1GuZmmd-gvxMD9FxqawsH9P6mlk_4vmwR/view?usp=sharing)
 
 # Semana 3
 - [Martes 18 Oct/Técnicas de prueba II]
