@@ -19,7 +19,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 3
 - [Martes 18 Oct/Técnicas de prueba II](https://drive.google.com/file/d/1Xp1azldan6y69CVqd3hdceSoi-PFl3gE/view?usp=sharing)
-- 📺 [Grabación Martes 18 Oct]
+- 📺 [Grabación Martes 18 Oct](https://drive.google.com/file/d/1zVa7ziIPahBuVczOoP_Ox5T7hxi6QFFZ/view?usp=sharing)
 - [Jueves 20 Oct/Técnicas de prueba III](https://drive.google.com/file/d/1xjQWG2tw7LWWpU0sHRMtfsbmvfuBNMot/view?usp=sharing)
 - 📺 [Grabación Jueves 20 Oct]
 - [Viernes 21 Oct/Administración de prueba](https://drive.google.com/file/d/1FWp_IlSynxCI1FVLCRxcIv2dDwxVgwzp/view?usp=sharing)
